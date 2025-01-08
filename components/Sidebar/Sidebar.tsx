@@ -74,7 +74,7 @@ const Sidebar = ({ isCollapsed }: SidebarProps) => {
                     className={`font-extrabold text-2xl pl-3 transition-opacity duration-300 ${isCollapsed ? 'opacity-0' : 'opacity-100'
                         }`}
                 >   
-                    Bankly
+                    Blue
                 </h1>
             </div>
 
